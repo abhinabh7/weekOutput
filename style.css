@@ -1,3 +1,4 @@
+
 body{
     background-color: #E5E5E5;
     font-family:  Roboto;
@@ -31,7 +32,7 @@ body{
     
 }
 .navbar input{
-    border: 2px solid black;
+    border: 2px solid #252525;
     border-radius: 14px;
     padding: 3px 17px;
     width: 129px;
